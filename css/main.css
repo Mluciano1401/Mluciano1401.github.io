@@ -475,8 +475,8 @@ blockquote {
   width: 100%;
   min-height: 172px;
   min-width: 306px;
-  max-width: 344px;
-  max-width: 612px;
+  max-width: 324px;
+  max-width: 592px;
 }
 .efecto-imagen1{
   width: 100%;
@@ -579,6 +579,11 @@ h4{text-align: center;}
 .imagen-principal{
   display: flex;
   justify-content: center;
+}
+.contenedor-grid{
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 /*
    * Clearfix: contain floats
